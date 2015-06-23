@@ -12,6 +12,8 @@
 - XML - handle XML and HTML
 - quantmod - read financial time series
 - rvest - scrap web pages
+- rga - use Google Analytics
+- RSiteCatalyst - use Adobe Analytics with R
 
 
 ## Data wrangling
@@ -25,15 +27,14 @@
 - lubridate - time and date manipulation
 - gmodels - create cross-tabs with multiple of options
 - car - bin continuous numerical data into categories or factors
+- zoo - dealing with time series data
+- xts - manipulating time series data
 
 
 ## Data analysis
 
-- psych
-- zoo - dealing with time series data
-- rga - use Google Analytics
-- RSiteCatalyst - use Adobe Analytics with R
 - stargazer - descriptive statistics in text format
+- zelig - estimate and help interpret the results of statistical models
 
 
 ## Data modeling 
